@@ -1,0 +1,7 @@
+{
+  "main_configuration": "G2",
+  "n_conditioning_factors": 14,
+  "factors": ["DEM", "slope", "aspect", "plan", "profile", "NDVI", "land_use", "roughness", "road", "river", "rx5day", "raincv", "soil_clay", "soil_silt"],
+  "excluded_from_main_model": ["building", "temyear", "rainfall"],
+  "note": "Archived tables may retain auxiliary columns and ablation variants. Those columns are not additional main-model conditioning factors. Encoding aspect and LULC can produce more matrix columns than the fourteen original factors."
+}

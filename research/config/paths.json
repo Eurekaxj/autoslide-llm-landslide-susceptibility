@@ -1,0 +1,10 @@
+{
+  "root": ".",
+  "factor_rasters": "inputs/rasters",
+  "pslsa_source": "vendor/PSLSA/susceptibility-2\u526f\u672c.py",
+  "daily_rainfall": null,
+  "native_rainfall": null,
+  "province_boundary": null,
+  "city_boundary": null,
+  "gdaldem": null
+}

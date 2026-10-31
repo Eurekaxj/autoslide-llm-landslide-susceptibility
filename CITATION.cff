@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this software."
+title: "AutoSlide: A Large Language Model Framework for Automated Landslide Susceptibility Assessment"
+type: software
+authors:
+  - family-names: Song
+    given-names: Chao
+  - family-names: Wu
+    given-names: Rendi
+  - family-names: Xu
+    given-names: Ling
+  - family-names: Feng
+    given-names: Wei
+  - family-names: Liu
+    given-names: Gang
+version: "1.0.0-rc1"
+keywords:
+  - landslide susceptibility
+  - large language models
+  - ArcGIS
+  - spatial cross-validation
+
+repository-code: "https://github.com/Eurekaxj/autoslide-llm-landslide-susceptibility"

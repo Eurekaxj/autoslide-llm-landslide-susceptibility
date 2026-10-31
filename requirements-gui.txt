@@ -1,0 +1,2 @@
+-r requirements-gis.txt
+PyQt5>=5.15
